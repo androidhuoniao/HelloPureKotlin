@@ -1,2 +1,9 @@
 # Project exclude paths
 /out/
+/.idea/codeStyles
+/HelloPureKotlin.iml
+/.idea/kotlinc.xml
+/.idea/libraries/KotlinJavaRuntime.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
